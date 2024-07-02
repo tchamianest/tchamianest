@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭 I am a Software developer and am good at learning new staff<br>👯 I’m looking for collaboration on Decentralized Exchange (DEX)<br>🤝 Inbox me: tchamianest@gmail.com<br>🌱 I’m currently learning in Andela.<br/> 💬 +250789696745<br>⚡ Trust is built with consistency🥂👣📊 ...<br>Rwandan #Africa<br>https://reliable-taiyaki-319c05.netlify.app/
 <div style="display: flex">
-  <img src='https://github-readme-stats.vercel.app/api?username=tchamianest&show_icons=true&locale=en' style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tchamianest&show_icons=true&locale=en&layout=compact" style="height: 200px;" alt="amiparadis250">
+  <img src='https://github-readme-stats.vercel.app/api?username=tchamianest&show_icons=true&locale=en' style="height: 150px; max-width:40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tchamianest&show_icons=true&locale=en&layout=compact" style="height: 150px;" alt="amiparadis250">
 </div>
 
 ## 🌐 Socials:
