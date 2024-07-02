@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I am a Software developer and am good at learning new staff<br>👯 I’m looking for collaboration on Decentralized Exchange (DEX)<br>🤝 Inbox me: tchamianest@gmail.com<br>🌱 I’m currently learning in Andela.<br/> 💬 +250789696745<br>⚡ Trust is built with consistency🥂👣📊 ...<br>Rwandan #Africa<br>https://reliable-taiyaki-319c05.netlify.app/
-
+<div style="display: flex">
+  <img src='https://github-readme-stats.vercel.app/api?username=tchamianest&show_icons=true&locale=en' style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tchamianest&show_icons=true&locale=en&layout=compact" style="height: 200px;" alt="amiparadis250">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tchamierenest/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iradukunda-ernest-391bb7272/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tchamianest4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCz6XAko4lwy4eu7ilnRvE-Q) 
