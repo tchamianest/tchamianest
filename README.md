@@ -13,6 +13,6 @@
 
 ## My Hobbies
 - Football
-- Musics
+- Music
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
